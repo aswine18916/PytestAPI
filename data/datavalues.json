@@ -1,0 +1,18 @@
+{
+  "url" : "https://api.themoviedb.org/3/movie",
+  "api_key": "e02d4e35e4d2b015818075ad19161f86",
+  "invalid_api": "4353w7w3rrl3490k3493th5yty8fg458",
+  "success_code": 200,
+  "un_auth_code": 401,
+  "notfound": 404,
+  "no_api_code": 7,
+  "topratedmovie": "top_rated",
+  "language": "en-US",
+  "invalidlanguage": 342,
+  "page" : 1,
+  "invalidpage": "ABC",
+  "movieratevalue": 9,
+  "generate_auth_token": "https://api.themoviedb.org/3/authentication/token/new",
+  "generate_new_session": "https://api.themoviedb.org/3/authentication/session/new",
+  "invalid_key_status_message": "Invalid API key: You must be granted a valid key."
+}
