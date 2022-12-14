@@ -14,5 +14,15 @@
   "movieratevalue": 9,
   "generate_auth_token": "https://api.themoviedb.org/3/authentication/token/new",
   "generate_new_session": "https://api.themoviedb.org/3/authentication/session/new",
-  "invalid_key_status_message": "Invalid API key: You must be granted a valid key."
+  "invalid_key_status_message": "Invalid API key: You must be granted a valid key.",
+  "movieid": "618344",
+  "already_rate_movie": "762975",
+  "guest_session_id": "8f7b56cfe28c33804f030c6e178cb6d3",
+  "rate_value" : 8.5,
+  "rate_value_higher": 80,
+  "negative_rate_value": -4,
+  "status_already_rated_movie": "he item/record was updated successfully.",
+  "status_high_rated_movie": "Value too high: Value must be less than, or equal to 10.0.",
+  "status_low_raed_movie": "Value too low: Value must be greater than 0.0.",
+  "invalid_movie_id": "A232"
 }
